@@ -6,7 +6,7 @@
 
 ### 1.1 Introduction (Product Overview)
 
-**H.A.P.A.G.** stands for **Health-Aware Personalized Agricultural Guidance**. It is a comprehensive web-based meal planning and nutrition management system designed to help users create personalized meal plans based on their health goals, dietary preferences, and budget constraints. The system integrates with the **Bantay Presyo** (Price Watch) API to provide real-time market pricing data, enabling users to make informed decisions about ingredient purchases and meal planning.
+**H.A.P.A.G.** stands for **Healthy and Affordable Personalized Automated Goal-Oriented Meal Planning System**. It is a comprehensive web-based meal planning and nutrition management system designed to help users create personalized meal plans based on their health goals, dietary preferences, and budget constraints. The system integrates with the **Bantay Presyo** (Price Watch) API to provide real-time market pricing data, enabling users to make informed decisions about ingredient purchases and meal planning.
 
 The application provides a modern, user-friendly interface for meal planning while leveraging a robust backend API that manages recipes, nutrition calculations, user profiles, meal plan generation, and price tracking.
 
